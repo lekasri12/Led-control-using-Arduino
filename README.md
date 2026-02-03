@@ -1,5 +1,6 @@
 # Led-control-using-Arduino
-
+### NAME : LEKASRI G
+### REGISTER NUMBER : 212223100025
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
 
@@ -58,9 +59,13 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
+<img width="1920" height="1080" alt="Screenshot 2026-02-03 145605" src="https://github.com/user-attachments/assets/cea77ef3-2036-4093-a18e-775ab56b97a3" />
 
 ## PROGRAM
+<img width="1920" height="1080" alt="Screenshot 2026-01-27 085722" src="https://github.com/user-attachments/assets/2a14302c-142f-4127-93d7-9dc1824e5aa2" />
 
 ## OUTPUT
+<img width="1920" height="1080" alt="Screenshot 2026-01-27 085709" src="https://github.com/user-attachments/assets/428bddd9-1578-4523-927a-239c100b7235" />
 
 ## RESULT
+Thus to design and implement a system for LED control using an Arduino microcontroller and a push button is successfully executed.
